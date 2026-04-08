@@ -19,10 +19,8 @@ A practical guide to [Hermes Agent](https://github.com/NousResearch/hermes-agent
 
 | Version | PDF |
 |---------|-----|
-| 中文版 (Chinese) | **[PDF Download](https://pub-161ae4b5ed0644c4a43b5c6412287e03.r2.dev/latest/hermes-agent.pdf)** |
-| English | **[PDF Download](https://pub-161ae4b5ed0644c4a43b5c6412287e03.r2.dev/latest/hermes-agent-en.pdf)** |
-
-Also available on the [Releases](https://github.com/alchaincyf/hermes-agent-orange-book/releases) page.
+| 中文版 (Chinese) | **[PDF Download](https://github.com/alchaincyf/hermes-agent-orange-book/raw/main/Hermes-Agent-从入门到精通-v260407.pdf)** |
+| English | **[PDF Download](https://github.com/alchaincyf/hermes-agent-orange-book/raw/main/Hermes-Agent-The-Complete-Guide-v260407.pdf)** |
 
 ## What This Book Covers
 
